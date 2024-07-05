@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/StudentGradeSystem/static/css/main.a9e9000c.css",
+    "main.js": "/StudentGradeSystem/static/js/main.902f5a25.js",
+    "static/js/453.2bc6fd09.chunk.js": "/StudentGradeSystem/static/js/453.2bc6fd09.chunk.js",
+    "static/media/pic1.png": "/StudentGradeSystem/static/media/pic1.f1b750a5f56ca474f326.png",
+    "index.html": "/StudentGradeSystem/index.html",
+    "main.a9e9000c.css.map": "/StudentGradeSystem/static/css/main.a9e9000c.css.map",
+    "main.902f5a25.js.map": "/StudentGradeSystem/static/js/main.902f5a25.js.map",
+    "453.2bc6fd09.chunk.js.map": "/StudentGradeSystem/static/js/453.2bc6fd09.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9e9000c.css",
+    "static/js/main.902f5a25.js"
+  ]
+}
